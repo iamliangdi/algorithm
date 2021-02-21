@@ -8,11 +8,6 @@ public class InsertSort {
 
     /**
      * 插入排序
-     * 时间复杂度
-     * 最优：O(n)
-     * 最差：O(n^2)
-     * 平均：O(n^2)
-     * 空间复杂度：O(1)
      *
      * @param array 原始数据
      */
